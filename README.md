@@ -1,5 +1,5 @@
- # 💫 About Me:
-🔭 I’m currently pursuing B.tech in Computer Science and Business Systems<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning coding<br>💬 Ask me about<br>⚡ Fun fact
+ # 💫 About Me:<
+🔭 I’m currently pursuing B.tech in Computer Science and Business Systems<br>I’m currently learning coding
 
 
 ## 🌐 Socials:
